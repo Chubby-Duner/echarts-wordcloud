@@ -1,24 +1,6 @@
-# echarts-wordcloud
+```
+Echarts词云控件，可方便的对词组进行可视化的显示。
 
-## Project setup
-```
-npm install
-```
+github: https://github.com/ecomfe/echarts-wordcloud
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
